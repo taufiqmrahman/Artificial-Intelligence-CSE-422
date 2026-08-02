@@ -1,6 +1,6 @@
 CSE422 Lab problems and their solutions.
 
-**You can also directly access the GOOGLE Colab Notebooks through these link:**
+**You can also directly access the GOOGLE Colab Notebooks through these links:**
 
 A star - https://colab.research.google.com/drive/1iQIkoAWuzZXPuBhRjjrnOh8YApc_jUhc?usp=sharing
 
